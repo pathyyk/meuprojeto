@@ -1,0 +1,87 @@
+.*{ margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+header{
+	padding-top: 15%;
+	background-image: url(../img/1.jpg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+
+
+}
+
+
+nav ul li{
+	float: left;
+	list-style-type: none;
+	color: white;
+	margin-right: 40px;
+	font-size: 15px;
+	font-weight:bold;
+}
+
+
+
+
+.texto-alinhado{
+	text-align: center; 
+
+}
+
+.row-botao{
+	margin-top: 100px;
+	color: #19B5FE;
+	padding-bottom:  100px;
+
+
+}
+
+
+/*PARTE GABRIEL */
+
+
+/*css section1*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+section{
+	float: left;
+	border-radius: 30px;
+	border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+p{
+	font-size: 20px;
+}
+
+h2{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.img{
+	width: 45%;
+	float: left;
+	text-align: center;
+	margin-left: 45px;
+	margin-top: 60px;
+}
+
+.info{
+	padding-left: 450px;
+	margin-top: 30px;
+}
